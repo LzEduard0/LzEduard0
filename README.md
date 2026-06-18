@@ -38,4 +38,6 @@ Busco constantemente aprimorar minhas competências técnicas e pessoais, acredi
 - LinkedIn: https://www.linkedin.com/in/luiz-eduardo-santos-silva-225748417/
 - E-mail: luizedsantoss@email.com
 
+- ![snake gif](https://github.com/LzEduard0/LzEduard0/blob/output/github-snake-dark.svg)
+
 ⭐ Obrigado por visitar meu perfil!
